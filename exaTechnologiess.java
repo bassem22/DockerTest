@@ -1,4 +1,4 @@
-public classs ExaTechnologies
+public class ExaTechnologies
 public static void main (String[] args){
 	
 	system.out.println ("hello bassem");
