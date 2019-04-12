@@ -1,4 +1,4 @@
-public class ExaTechnologies{
+public class exaTechnologies{
 	
 	public static void main (String[] args){
 	
