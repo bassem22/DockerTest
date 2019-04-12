@@ -1,5 +1,5 @@
 FROM java:8
 COPY ExaTechnologies.java .
-Run javac  ExaTechnologies.java
+Run javac ExaTechnologies.java
 
-CMD ("java","ExaTechnologies")
+CMD ["java", "ExaTechnologies"]
