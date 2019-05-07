@@ -2,7 +2,7 @@ public class exaTechnologiess{
 	
 	public static void main (String[] args){
 	
-mmmmmmmmmmmmmmmmmmmmmmmm
+
 	
 	System.out.println ("hello bassem");
 	
